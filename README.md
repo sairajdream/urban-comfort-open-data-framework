@@ -52,7 +52,6 @@ urban-comfort-open-data-framework/
 The `data/` directory is **intentionally excluded from version control** due to file size constraints and to follow best practice.
 All datasets are obtained from **public, open licence sources** and can be regenerated automatically by running the notebooks.
 
----
 
 ## Reproducibility and execution order
 
@@ -83,7 +82,6 @@ Each notebook can be run independently, but the intended execution order is:
 
 Each phase writes **explicit outputs and provenance logs** that are consumed by the next phase, ensuring clean separation and auditability.
 
----
 
 ## Data availability and ethics
 
@@ -98,7 +96,6 @@ This design choice ensures that the framework is:
 * Portable across cities
 * Suitable for academic review and policy facing contexts
 
----
 
 ## Installation
 
@@ -112,7 +109,6 @@ pip install -r requirements.txt
 
 The notebooks were developed and tested on Linux, but should run on any standard Python environment with geospatial support.
 
----
 
 ## How to reproduce the results
 
@@ -126,7 +122,6 @@ The notebooks were developed and tested on Linux, but should run on any standard
 
 No manual data preparation is required.
 
----
 
 ## Licence
 
