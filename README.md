@@ -116,7 +116,5 @@ The notebooks were developed and tested on Linux, but should run on any standard
 
 No manual data preparation is required.
 
-## Licence
-
-All code and notebooks are released under the **MIT Licence**. Underlying datasets retain their original licences, which are cited and documented within the notebooks.
-
+## ⚖️ License
+This research code is licensed under **CC-BY-4.0** for academic use ONLY.
