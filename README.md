@@ -46,7 +46,7 @@ Add an image file at `figures/comfortscore_top_bottom_10pct.png` and enable it h
 ![Example comfort map](figures/comfortscore_top_bottom_10pct.png)
 
 
-Caption suggestion: Example comfort map showing relative comfort potential across venues. Red indicates lower relative comfort potential and green indicates higher relative comfort potential.
+Comfort map showing relative comfort potential across venues. Red indicates lower relative comfort potential and green indicates higher relative comfort potential.
 
 ## Method summary
 The framework constructs a venue level composite indicator by integrating independent structural signals:
